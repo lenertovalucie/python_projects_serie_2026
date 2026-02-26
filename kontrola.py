@@ -1,3 +1,3 @@
-a = "150"
-b = "150"
-print(a + b)
+ucet = 500
+spropitne = 75.50
+print(f"Celkem: {ucet + spropitne} Kč")
